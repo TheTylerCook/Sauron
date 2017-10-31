@@ -1,0 +1,12 @@
+.avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 28px;
+}
+
+.user_name {
+    font-size: 35px;
+    font-weight: 600;
+    color: rgb(61, 61, 248);
+
+}

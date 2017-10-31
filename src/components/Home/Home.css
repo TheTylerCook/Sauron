@@ -1,0 +1,36 @@
+body {
+    background: #06D6A0
+}
+
+
+.home_header {
+    height: 90px;
+    width: 100%;
+    background: #118AB2;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-decoration: none;
+ 
+}
+
+.home_logo {
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.login_button {
+    height: 25px;
+    width: 75px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 39px;
+    background: #FFD166;
+    
+}
+
+.login_button:hover {
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
