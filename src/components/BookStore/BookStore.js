@@ -11,105 +11,66 @@ export default class BookStore extends Component {
   render() {
     return (
     <div>     
-	<div class="container">
-  <div class="list">
-    <article class="list--item">
+	<div className="container">
+  <div className="list">
+    <article className="list--item">
       <div className='figure'>
         <img src="" alt=""/>
-        <header>
+        <div className='header'>
         <div class="floater">
         </div>
           <h2>Title</h2>
-        </header>  
-        <figcaption>
+        </div>  
+        <div className='figcaption'>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        </figcaption>
+        </div>
       </div>
     </article>
-    <article class="list--item">
+    <article className="list--item">
       <div className='figure'>
         <img src="" alt=""/>
-        <header>
+        <div className='header'>
         <div class="floater">
           
         </div>
           <h2>Title</h2>
-        </header>  
-        <figcaption>
+        </div>  
+        <div className='figcaption'>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        </figcaption>
+        </div>
       </div>
     </article>
-    <article class="list--item">
+    <article className="list--item">
       <div className='figure'>
         <img src="" alt=""/>
-        <header>
-        <div class="floater">
+        <div className='header'>
+        <div className="floater">
           
         </div>
           <h2>Title</h2>
-        </header>  
-        <figcaption>
+        </div>  
+        <div className='figcaption'>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        </figcaption>
+        </div>
       </div>
     </article>
-    <article class="list--item">
+    <article className="list--item">
       <div className='figure'>
-        <img src="//placehold.it/250x250" alt=""/>
-        <header>
+        <img src="" alt=""/>
+        <div className='header'>
         <div class="floater">
           
         </div>
           <h2>Title</h2>
-        </header>  
-        <figcaption>
+        </div>  
+        <div className='figcaption'>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        </figcaption>
-      </div>
-    </article>
-    <article class="list--item">
-      <div className='figure'>
-        <img src="//placehold.it/250x250" alt=""/>
-        <header>
-        <div class="floater">
-          
         </div>
-          <h2>Title</h2>
-        </header>  
-        <figcaption>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        </figcaption>
       </div>
     </article>
-    <article class="list--item">
-      <div className='figure'>
-        <img src="//placehold.it/250x250" alt=""/>
-        <header>
-        <div class="floater">
-          
-        </div>
-          <h2>Title</h2>
-        </header>  
-        <figcaption>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        </figcaption>
-      </div>
-    </article>
-    <article class="list--item">
-      <div className='figure'>
-        <img src="//placehold.it/250x250" alt=""/>
-        <header>
-        <div class="floater">
-          
-        </div>
-          <h2>Title</h2>
-        </header>  
-        <figcaption>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        </figcaption>
-      </div>
-    </article>
+
+
+
 
 
 

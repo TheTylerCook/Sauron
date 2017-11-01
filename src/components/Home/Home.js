@@ -6,10 +6,7 @@ import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 export default class Home extends Component {
 
 
-
-
-
-
+  
 
   render() {
     return (
